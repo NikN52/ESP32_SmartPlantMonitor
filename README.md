@@ -1,7 +1,6 @@
 # ESP32 SmartPlantMonitor
 
-# English
-## Description
+## Description (English)
 
 SmartPlantMonitor is a project designed to automate plant care using the ESP32 microcontroller. The program collects data from various sensors, such as soil moisture, temperature and air humidity, and illumination. In addition, the system allows you to automatically control the watering and illumination of plants, depending on the read indicators. All data and component management is available through a web interface hosted on the ESP32 itself.
 
@@ -47,8 +46,7 @@ The graphs on the page are updated automatically every 5 seconds. Please note th
 
 SmartPlantMonitor is a simple and effective plant care automation project using ESP32. It provides the ability to monitor and control the system through a web browser, and also offers basic graphs to visually display the current values of the sensors.
 
-# Русский
-## Описание
+## Описание (Русский)
 
 SmartPlantMonitor - это проект, предназначенный для автоматизации ухода за растениями с использованием микроконтроллера ESP32. Программа собирает данные с различных датчиков, таких как влажность почвы, температура и влажность воздуха, а также освещенность. Кроме того, система позволяет автоматически управлять поливом и подсветкой растений в зависимости от считанных показателей. Все данные и управление компонентами доступны через веб-интерфейс, размещенный на самом ESP32.
 
